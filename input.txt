@@ -1,0 +1,9 @@
+((define1 (fnc-arg fnc arg1 arg2) (fnc arg1 arg2))
+(display (fnc-arg + 4 2))
+(display (fnc-arg1 - 4 2))
+(display "The first 10 Fibonacci numbers: ")
+(display (fnc-arg * 4 2))
+(disply (fnc-arg / 4 2))
+"dfdfdfdfd"
+(define 1dsds 12)
+
